@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const TODOS_URL = 'https://jsonplaceholder.typicode.com/todos';","map":{"version":3,"sources":["/Users/dzb/Desktop/next-js-dzb/constants/api.js"],"names":["TODOS_URL"],"mappings":"AAAA,OAAO,MAAMA,SAAS,GAAG,4CAAlB","sourcesContent":["export const TODOS_URL = 'https://jsonplaceholder.typicode.com/todos';"]},"metadata":{},"sourceType":"module"}
